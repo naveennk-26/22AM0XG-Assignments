@@ -5,10 +5,10 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [ ] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
-| <ul><li>- [ ] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
-| <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
-| <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
+| <ul><li>- [x] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
+| <ul><li>- [x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
+| <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
+| <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
 | <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
@@ -63,6 +63,19 @@ docker ps
 ![image](https://github.com/user-attachments/assets/c2ff31da-c87a-49d0-b037-7a37f66033e3)
 
 docker stop
+![image](https://github.com/user-attachments/assets/3d5a1d44-5ec7-45c7-bf55-06d724c7214f)
+
+docker start
+![image](https://github.com/user-attachments/assets/36b1613c-5e7f-4182-a6a4-26a5392c93b5)
+
+docker restart
+![image](https://github.com/user-attachments/assets/dad0c8c7-a0c6-4ff9-b04b-583ed8a00dc7)
+
+docker logs
+![image](https://github.com/user-attachments/assets/c6b82fd7-73fe-4040-acde-ec5c1e9786ab)
+
+docker rm
+![image](https://github.com/user-attachments/assets/e62af8ac-45dd-4ba2-a127-78f3cc0bd05d)
 
 docker build
 ![image](https://github.com/user-attachments/assets/331d5bfd-c385-4c0f-bb5c-19663c133cbd)

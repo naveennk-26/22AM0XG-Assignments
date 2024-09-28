@@ -25,22 +25,79 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
-> Add your answer here!
+
+docker version
+![image](https://github.com/user-attachments/assets/c6a11dbd-e0a8-411e-bf15-8731678de19f)
+
+docker info
+![image](https://github.com/user-attachments/assets/cd6f48de-b09b-472f-9d84-4f39303789d8)
+
+docker system info
+![image](https://github.com/user-attachments/assets/2822b684-d1b3-446c-bdbd-9203d74aaecb)
+
+docker --help
+![image](https://github.com/user-attachments/assets/037330b9-05c1-4792-ab85-3f8a49ec430a)
+
+docker compose version
+![image](https://github.com/user-attachments/assets/94dcf012-2955-4cba-a34f-d55b2d871b60)
+
+docker login
+![image](https://github.com/user-attachments/assets/f1eb99d5-ae60-4255-b60a-40ca59d4e457)
+
+docker logout
+![image](https://github.com/user-attachments/assets/e0334bba-946d-497e-bd2c-ad8c59db0e52)
+
+docker search nginx
+![image](https://github.com/user-attachments/assets/30658559-bf4e-4484-9762-4c99b028b0cd)
+
+docker images
+![image](https://github.com/user-attachments/assets/56f9f01c-f5ac-47e9-afe9-f0fefc8870b1)
+
+docker docker pull nginx
+![image](https://github.com/user-attachments/assets/c7ae6297-8109-41f8-90b4-93194ec9d385)
+
+docker run -idt nginx
+![image](https://github.com/user-attachments/assets/bd047b26-9d0c-4cec-98a8-a2b01dfaf32b)
+
+docker ps 
+![image](https://github.com/user-attachments/assets/c2ff31da-c87a-49d0-b037-7a37f66033e3)
+
+docker stop
+
+docker build
+![image](https://github.com/user-attachments/assets/331d5bfd-c385-4c0f-bb5c-19663c133cbd)
+
+docker push
+![image](https://github.com/user-attachments/assets/900fd72e-8bac-446e-80d3-8e0d1b2b7860)
+
 
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+
+python --version
+![image](https://github.com/user-attachments/assets/6b60b799-558a-4907-96ac-d46e67902d16)
 
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+
+python helloworld.py
+![image](https://github.com/user-attachments/assets/5e5102c5-b8a5-4ebb-8ab9-4a733e600158)
+
+python app.py
+![image](https://github.com/user-attachments/assets/cc475633-a0c6-4ec2-8ead-42c3fb9419bd)
+
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+
+docker build
+![image](https://github.com/user-attachments/assets/d6cf0968-d54b-4775-9fc2-c04c19f52c9a)
+
+docker push
+![image](https://github.com/user-attachments/assets/4c3654a4-0210-4bae-8d33-b5666a149b1a)
 
 ***
 

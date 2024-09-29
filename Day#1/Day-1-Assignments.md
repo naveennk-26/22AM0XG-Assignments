@@ -83,6 +83,24 @@ docker build
 docker push
 ![image](https://github.com/user-attachments/assets/900fd72e-8bac-446e-80d3-8e0d1b2b7860)
 
+docker tag 
+![image](https://github.com/user-attachments/assets/8da6e001-062a-4379-82c7-23c3c61d35a4)
+
+docker save
+![image](https://github.com/user-attachments/assets/505ce089-6a3c-4e2d-9cf6-7532cd676915)
+
+docker load
+![image](https://github.com/user-attachments/assets/09822212-bc06-49d4-9158-a4f50487272f)
+
+docker exec
+![image](https://github.com/user-attachments/assets/f2edf143-2991-4086-919b-1444472ae03b)
+
+docker cp
+![image](https://github.com/user-attachments/assets/205eb513-aa70-4aac-a807-185052713f27)
+
+docker system prune
+![image](https://github.com/user-attachments/assets/07c2a040-225f-4905-8f65-ccd8add27a86)
+
 
 ***
 
@@ -101,7 +119,6 @@ python helloworld.py
 python app.py
 ![image](https://github.com/user-attachments/assets/cc475633-a0c6-4ec2-8ead-42c3fb9419bd)
 
-
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
@@ -119,8 +136,12 @@ docker push
 
 ***
 
+
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+
+docker run 
+![image](https://github.com/user-attachments/assets/2162df22-05c1-4173-91c8-0a2c6cb0eeec)
+
 
 ***
 

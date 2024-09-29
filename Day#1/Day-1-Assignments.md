@@ -132,7 +132,10 @@ docker push
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+
+docker compose 
+![image](https://github.com/user-attachments/assets/98e08daf-3952-4855-a430-fc8ab2651e78)
+![image](https://github.com/user-attachments/assets/85396515-251f-4bb1-a33c-2afa185c8c58)
 
 ***
 
@@ -141,7 +144,6 @@ docker push
 
 docker run 
 ![image](https://github.com/user-attachments/assets/2162df22-05c1-4173-91c8-0a2c6cb0eeec)
-
 
 ***
 

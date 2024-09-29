@@ -1,0 +1,12 @@
+version: '3'
+services:
+  navin:
+    image: "naveenkumarb26/email"
+    container_name: navin_container
+    restart: always
+    
+  navin1:
+    image: "naveenkumarb26/movie"
+    container_name: navin1_container
+    restart: always
+    
